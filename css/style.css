@@ -1,0 +1,22 @@
+body{
+    font-family: cursive;
+}
+.heading{
+    text-align: center;
+    font-size: 50px;
+    color: #B90632;
+}
+.image{
+    width: 40%;
+    margin: auto;
+}
+.image .img-caption{
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    font-style: italic;
+}
+img{
+    width: 100%;
+    height: auto;
+}
