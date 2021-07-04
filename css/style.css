@@ -24,3 +24,11 @@ img{
 p{
     text-align: justify;
 }
+
+footer{
+    background-color: #b2bec3;
+    text-align: center;
+    font-family: cursive;
+    text-transform: capitalize;
+    padding: 2px 0;
+}
